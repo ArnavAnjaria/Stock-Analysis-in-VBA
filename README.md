@@ -14,11 +14,11 @@ Upon review, we can see that only two stocks that produced a positive return in 
 
 The 2017 returns:
 
-![2017 returns](./resources/2017_Stock_Performance.png)
+![2017 returns](./Resources/2017_Stock_Performance.png)
 
 The 2018 returns:
 
-![2018 returns](./resources/2018_Stock_Performance.png)
+![2018 returns](./Resources/2018_Stock_Performance.png)
 
 So based on these returns, I would only be able to recommend Steve to look more into ENPH, as it seems as if it is the only viable option over the time frame he wanted to analyze. 
 
@@ -27,19 +27,19 @@ Looking at the performance of the code, as we can see below:
 
 2017 Refactored Code:
 
-![2017 Refactored](./resources/VBA_Challenge_2017.png)
+![2017 Refactored](./Resources/VBA_Challenge_2017.png)
 
 2017 Original Code:
 
-![2017 Original](./resources/VBA_Challenge_2017_original_code.png)
+![2017 Original](./Resources/VBA_Challenge_2017_original_code.png)
 
 2018 Refactored Code:
 
-![2018 Refactored](./resources/VBA_Challenge_2018.png)
+![2018 Refactored](./Resources/VBA_Challenge_2018.png)
 
 2018 Original Code:
 
-![2018 Original](./resources/VBA_Challenge_2018_original_code.png)
+![2018 Original](./Resources/VBA_Challenge_2018_original_code.png)
 
 We can see a large discrepancy in the speed that it was able to finish the calculations. The speed of the refactored code is much faster in its execution compared to the originally written code.
 
